@@ -5,7 +5,7 @@
 Aquí habrá algunos ejemplos:
 
 \begin{equation}
-f(x)=\int h(u)\,du
+f(x)=\int g(u)\,du
  (\#eq:integral)
 \end{equation}
 
