@@ -1,6 +1,6 @@
 # Introducción
 
-Cosas introductorias, ver [@Agrawal]
+Cosas introductorias. Ver [@Agrawal]
 
 ## Tablas
 
