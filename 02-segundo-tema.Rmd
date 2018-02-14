@@ -2,7 +2,7 @@
 ```
 # Ejemplos
 
-Aquí habrá algunos ejemplos:
+Aquí habrá algunos ejemplos de ecuaciones:
 
 \begin{equation}
 f(x)=\int g(u)\,du
