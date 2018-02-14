@@ -12,7 +12,7 @@ link-citations: true
 
 # Temario y evaluación {-}
 
-Aquí hablamos de los temas y las calificaciones
+Aquí hablamos de los temas y las calificaciones, y otras cosas.
 
 ```{r}
 rnorm(10, 7, 2)
