@@ -1,0 +1,9 @@
+before_chapter_script: ["script1.R", "script2.R"]
+after_chapter_script: "script3.R"
+language:
+  label:
+    fig: "Figura "
+    tab: "Tabla "
+  ui:
+    chapter_name: "Clase "
+new_session: yes

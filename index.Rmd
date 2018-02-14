@@ -1,0 +1,21 @@
+---
+title: "Mi libro"
+author: "Felipe González"
+site: bookdown::bookdown_site
+output:
+  bookdown::gitbook: 
+    config:
+      sharing: no
+bibliography: ["book.bib"]
+link-citations: true
+---
+
+# Temario y evaluación {-}
+
+Aquí hablamos de los temas y las calificaciones
+
+```{r}
+rnorm(10, 7, 2)
+```
+
+

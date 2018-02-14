@@ -1,0 +1,23 @@
+# Introducción
+
+Cosas introductorias, ver [@Agrawal]
+
+## Tablas
+
+```{r coches}
+knitr::kable(head(mtcars), caption = 'Una tabla')
+```
+
+```{r tablacoches, fig.cap = "Tabla interactiva"}
+DT::datatable(mtcars)
+```
+
+## Ejemplo de Gráficas {#ejgrafs}
+
+```{r disp, fig.cap = "Disp vs hp", fig.width =5, fig.asp = 0.7, fig.align="center"}
+library(ggplot2)
+ggplot(mtcars, aes (x = disp, y = hp)) + geom_point()
+```
+
+
+También ver la ecuación \@ref(eq:integral), y la tabla \@ref(fig:tablacoches)
