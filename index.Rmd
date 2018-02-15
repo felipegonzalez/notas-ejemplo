@@ -15,7 +15,7 @@ link-citations: true
 Aquí hablamos de los temas y las calificaciones, y otras cosas.
 
 ```{r}
-rnorm(20, 6, 2)
+rnorm(20, 8, 1)
 ```
 
 
